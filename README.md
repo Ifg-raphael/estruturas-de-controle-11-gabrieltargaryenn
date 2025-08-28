@@ -31,7 +31,9 @@ O programa deve assumir que a entrada e saída seja exatamente no formato dado n
 
 Entrada:
 ```
-3 3 3
+3
+3
+3
 ```
 Saída:
 ```
@@ -44,7 +46,9 @@ equilátero
 
 Entrada:
 ```
-5 5 3
+5
+5
+3
 ```
 Saída:
 ```
@@ -57,7 +61,9 @@ isósceles
 
 Entrada:
 ```
-2 2 4
+2
+2
+4
 ```
 Saída:
 ```
